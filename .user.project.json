@@ -1,25 +1,6 @@
 {
   "run": [
     {
-      "filePath": "/webapp/test/mockServer.html",
-      "previewMode": 1,
-      "dataMode": 0,
-      "workspace": "withoutWorkspace",
-      "ui5ActiveVersion": null,
-      "ui5VerSource": null,
-      "isDefaultVersion": 0,
-      "urlParameters": [],
-      "hashParameter": "",
-      "backendSystem": [],
-      "urlParametersNotNeeded": false,
-      "_metadata": {
-        "id": 3913157,
-        "runnerId": "webapprunner",
-        "displayName": "Configuration",
-        "lastRunTimeStamp": 1507188423791
-      }
-    },
-    {
       "filePath": "/webapp/index.html",
       "previewMode": 1,
       "dataMode": 1,
@@ -34,7 +15,60 @@
         "id": 2789607,
         "runnerId": "webapprunner",
         "displayName": "Run index.html",
-        "lastRunTimeStamp": 1507188402101
+        "lastRunTimeStamp": 1507208392985
+      }
+    },
+    {
+      "filePath": "/webapp/test/mockServer.html",
+      "previewMode": 1,
+      "dataMode": 0,
+      "workspace": "withoutWorkspace",
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "urlParameters": [],
+      "hashParameter": "",
+      "backendSystem": [],
+      "urlParametersNotNeeded": false,
+      "_metadata": {
+        "id": 3913157,
+        "runnerId": "webapprunner",
+        "displayName": "mock server",
+        "lastRunTimeStamp": 1507208378202
+      }
+    },
+    {
+      "filePath": "/webapp/test/integration/opaTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "backendSystem": [],
+      "_metadata": {
+        "id": 2757084,
+        "runnerId": "qunitrunner",
+        "displayName": "integration tests",
+        "lastRunTimeStamp": 1507195884692
+      }
+    },
+    {
+      "filePath": "/webapp/test/unit/unitTests.qunit.html",
+      "previewMode": 1,
+      "dataMode": 1,
+      "ui5ActiveVersion": null,
+      "ui5VerSource": null,
+      "isDefaultVersion": 0,
+      "workspace": "withoutWorkspace",
+      "urlParameters": [],
+      "backendSystem": [],
+      "_metadata": {
+        "id": 5367128,
+        "runnerId": "qunitrunner",
+        "displayName": "unit tests",
+        "lastRunTimeStamp": 1507193841220
       }
     }
   ]
