@@ -1,0 +1,9 @@
+{
+  "mockpreview": {
+    "mockUri": "/destinations/northwind/V2/Northwind/Northwind.svc/",
+    "metadataFilePath": "",
+    "mockRequestsFilePath": "",
+    "loadJSONFiles": false,
+    "loadCustomRequests": false
+  }
+}
